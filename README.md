@@ -10,4 +10,10 @@ Sample website with plenty of files for demos
 
 ## GIT & GitHub Testing
 
-Additional Descriptions added
+SUPER Additional Descriptions added
+
+## Git Comparisons
+This section is just for comparison
+
+## GITHub Comparisons 2nd part
+Comparison with Repo
