@@ -17,3 +17,6 @@ This section is just for comparison
 
 ## GITHub Comparisons 2nd part
 Comparison with Repo
+
+## Auto Mege
+Testing
