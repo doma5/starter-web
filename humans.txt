@@ -7,11 +7,9 @@
               #############
 
 # THANKS
-
-  CANDIES 
+Potato
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AWS, GC
-    Python
