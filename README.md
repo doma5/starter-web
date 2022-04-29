@@ -11,6 +11,7 @@ Sample website with plenty of files for demos
 ## GIT & GitHub Testing
 
 SUPER Additional Descriptions added
+DUPER. Adding GIT Rebase
 
 ## Git Comparisons
 This section is just for comparison
