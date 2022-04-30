@@ -2,13 +2,17 @@
 # The humans responsible & technology colophon
 
 # TEAM
+master
 
 
 # THANKS
+master
 	
 
 # TECHNOLOGY COLOPHON
+master
 
 
 # NOTE
 File modified before rebase
+Modified again 
