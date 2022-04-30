@@ -3,14 +3,12 @@
 
 # TEAM
 
-    <name> -- GOODBYE WORLD -- <twitter>
-              #############
 
 # THANKS
 	
-	Thank you for the music.
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, Angular
-    jQuery, Modernizr, AWS, GC
+
+# NOTE
+File modified before rebase
