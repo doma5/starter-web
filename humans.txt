@@ -17,3 +17,4 @@ master
 File modified before rebase
 Modified again 
 Doing some changes in Local 
+Git stash testing
