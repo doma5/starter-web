@@ -28,3 +28,5 @@ Test
 ## NOTE
 Remote change
 Emergency change to test stashing
+Git stash with branches testing
+
