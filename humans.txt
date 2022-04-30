@@ -20,3 +20,4 @@ Doing some changes in Local
 Git stash testing
 Git stash and branch testing
 Little test
+Modified for tags
